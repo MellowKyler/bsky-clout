@@ -1,5 +1,5 @@
 # bsky-clout
-check how much clout a post generated.
+recursively check how much overall clout a post generated.
 
 `bsky-clout [post-url]`
 
